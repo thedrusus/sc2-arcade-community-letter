@@ -10,9 +10,9 @@ Developers and players are requesting restoration or preservation of publishing 
 
 ## Current Support
 
-- Developer Signatories: 0
-- Cumulative Arcade Plays Represented: 0
-- Player Supporters: 0
+- Developer Signatories: <!--DEV_COUNT-->0<!--/DEV_COUNT-->
+- Cumulative Arcade Plays Represented: <!--PLAY_COUNT-->0<!--/PLAY_COUNT-->
+- Player Supporters: <!--PLAYER_COUNT-->0<!--/PLAYER_COUNT-->
 
 ---
 
