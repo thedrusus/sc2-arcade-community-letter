@@ -13,11 +13,16 @@ PLAYER_CELL = "B4"
 SUMMARY_TAB = "Summary"
 
 def replace_between_markers(text: str, marker: str, new_value: str) -> str:
-    # Replaces content between <!--MARKER--> ... <!--/MARKER-->
     pattern = rf"(<!--{marker}-->)(.*?)(<!--/{marker}-->)"
-    if not re.search(pattern, text, flags=re.DOTALL):
+    m = re.search(pattern, text, flags=re.DOTALL)
+    if not m:
         raise RuntimeError(f"Marker {marker} not found in README.")
-    return re.sub(pattern, rf"\1{new_value}\3", text, flags=re.DOTALL)
+    return re.sub(
+        pattern,
+        lambda match: f"{match.group(1)}{new_value}{match.group(3)}",
+        text,
+        flags=re.DOTALL,
+    )
 
 def main():
     sheet_id = os.environ["GOOGLE_SHEET_ID"]
