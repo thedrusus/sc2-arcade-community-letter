@@ -11,8 +11,8 @@ Developers and players are requesting restoration or preservation of publishing 
 ## Current Support
 
 - Developer Signatories: <!--DEV_COUNT-->2<!--/DEV_COUNT-->
-- Cumulative Arcade Plays Represented: <!--PLAY_COUNT-->0<!--/PLAY_COUNT-->
-- Player Supporters: <!--PLAYER_COUNT-->None<!--/PLAYER_COUNT-->
+- Cumulative Arcade Plays Represented: <!--PLAY_COUNT-->52352<!--/PLAY_COUNT-->
+- Player Supporters: <!--PLAYER_COUNT-->533<!--/PLAYER_COUNT-->
 
 ---
 
