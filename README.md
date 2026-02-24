@@ -23,5 +23,3 @@ Developers and players are requesting restoration or preservation of publishing 
 🧑‍💻 Developer Signatory [Form](https://docs.google.com/forms/d/1w0WrumGEnnyGeQzmCVXhLEzbJRSNLS9ZmlxFd8fbvak)
 
 🎮 Player Support [Form](https://docs.google.com/forms/d/1NqSVUg4RBZPc88Bgt1oHZMixDbWb33WWrZtEXDYcZ6M)
-
-📊 Public Support [Data](https://docs.google.com/spreadsheets/d/1RXLFSEnV7CECXCnI79K2cKMGtweW0z2td4m0lBQ6w0A/edit?usp=sharing)
