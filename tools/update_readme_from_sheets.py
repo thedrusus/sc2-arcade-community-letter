@@ -8,8 +8,8 @@ from google.oauth2.service_account import Credentials
 README_PATH = "README.md"
 
 DEV_CELL = "B2"
-PLAY_CELL = "B3"
-PLAYER_CELL = "B4"
+PLAY_CELL = "C2"
+PLAYER_CELL = "D2"
 SUMMARY_TAB = "Summary"
 
 def replace_between_markers(text: str, marker: str, new_value: str) -> str:
