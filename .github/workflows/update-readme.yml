@@ -30,7 +30,7 @@ jobs:
           GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
         run: |
-          tools/update_readme_from_sheets.py
+          python tools/update_readme_from_sheets.py
 
       - name: Commit and push if changed
         run: |
