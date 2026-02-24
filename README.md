@@ -1,3 +1,5 @@
+![Feature Image](editor_banner.png)
+
 # StarCraft II Arcade Publishing Restoration — Open Letter
 
 This repository contains a public open letter and support tracking regarding the removal of StarCraft II Arcade publishing access.
